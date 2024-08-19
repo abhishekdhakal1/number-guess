@@ -26,21 +26,3 @@ Welcome to the **Guess The Number** game! This is a simple C++ game where the pl
 
 - You need a C++ compiler to build and run this program (e.g., GCC, Clang, MSVC).
 
-### Building and Running the Game
-
-1. Clone this repository or download the source files.
-2. Ensure the files `main.cpp` and `GuessTheNumber.h` (along with any other necessary files) are in the same directory.
-3. Compile the code using a C++ compiler. For example:
-
-    ```bash
-    g++ main.cpp -o GuessTheNumber
-    ```
-
-4. Run the game:
-
-    ```bash
-    ./GuessTheNumber
-    ```
-
-### Example Gameplay
-
